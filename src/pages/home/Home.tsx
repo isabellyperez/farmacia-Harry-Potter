@@ -17,6 +17,7 @@ function Home() {
 
                     </div>
                 </div>
+                
                 <div className='container grid grid-cols-2  text-gray-800 p-16'>
                 <div className="flex justify-center">
                         <img src='src/assets/imagens/harry4.jpg' alt="" className='object-contain' />
